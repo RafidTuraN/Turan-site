@@ -1,0 +1,76 @@
+body{
+    font-family: 'Ubuntu', sans-serif;font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size:32px
+}
+h3{
+    font-size: 30px;
+}
+.well{
+    color: #54b49fd3;
+}
+ span{
+     color: red;
+ }
+.top{
+    display: flex;
+    width: 80%;
+    padding: 3%;
+}
+.pic img{
+    width:80%;
+    border: 3px solid rgb(68, 73, 73);
+    border-radius: 50%;
+
+}
+
+
+.batton{
+    text-decoration: none;
+    background-image: linear-gradient(#99ff46d7,#51be95);
+    padding:7px;
+    width:3px;
+    border-radius: 13px;
+    color:white;
+    font-weight: 700;
+}
+.dream{
+    display: flex;
+}
+.big{
+    color: #dfc682;
+}
+.main{
+    padding-right: 20px;
+}
+
+.pic-1 img{
+    width:30%;
+   padding-bottom:10px;
+}
+.last{
+    display: flex;
+}
+.tow{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+    border-left:5px solid  ;
+    border-image: linear-gradient(cyan, blue) ;
+    border-image-slice: 2;
+}
+
+footer{
+    font-size: 20px;
+    text-align: center;
+    background-color: black;
+    color:white;
+}
